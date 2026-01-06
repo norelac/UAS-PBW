@@ -1,2 +1,2 @@
-# UAS_Pemrograman-Berbasis-Web-4315
+# UAS_PBW
 Muhammad Iqbal Junialdi / A11.2024.15636 
